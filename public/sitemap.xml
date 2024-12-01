@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joshbergman.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joshbergman.io/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joshbergman.io/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joshbergman.io/skills/</loc>
+    <loc>/skills/</loc>
     <lastmod>2024-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joshbergman.io/robotics/</loc>
+    <loc>/robotics/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://joshbergman.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://joshbergman.io/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>https://joshbergman.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
