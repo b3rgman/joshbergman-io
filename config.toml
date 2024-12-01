@@ -1,5 +1,4 @@
-# baseURL = "https://joshbergman.io"
-baseURL = "http://localhost:1313"
+baseURL = "https://joshbergman.io"
 theme = "risotto"
 title = "joshbergman.io"
 author = "Josh Bergman"
