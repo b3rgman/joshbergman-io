@@ -5,8 +5,8 @@
     <link>/</link>
     <description>Recent content on joshbergman.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© [Josh Bergman](https://joshbergman.io)</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>/about/</link>
@@ -14,6 +14,19 @@
       
       <guid>/about/</guid>
       <description>Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.</description>
+      <content>&lt;p&gt;Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/posts/about/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description>Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.</description>
+      <content>&lt;p&gt;Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -26,6 +39,14 @@
 Predator Detection System This was created as a scienxce project to deter predators from attacking animals or pets.
 Predator Detection
 Digital trading card system (In Progress) This was created as an Innovation Project for FIRST Lego League Rototics. The objective was to create a 3D immersive digital trading card system. We used design boards, javascript, CSS and html to create the basis of the app.</description>
+      <content>&lt;p&gt;Here are some of the projects I have worked on.&lt;/p&gt;
+&lt;h1 id=&#34;predator-detection-system&#34;&gt;Predator Detection System&lt;/h1&gt;
+&lt;p&gt;This was created as a scienxce project to deter predators from attacking animals or pets.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/b3rgman/predator-detection&#34;&gt;Predator Detection&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;digital-trading-card-system-in-progress&#34;&gt;Digital trading card system (In Progress)&lt;/h1&gt;
+&lt;p&gt;This was created as an Innovation Project for FIRST Lego League Rototics.  The objective was to create a 3D immersive digital trading card system.  We used design boards, javascript, CSS and html to create the basis of the app.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/b3rgman/digi-card-wallet&#34;&gt;3D Card System&lt;/a&gt;&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -38,6 +59,56 @@ Digital trading card system (In Progress) This was created as an Innovation Proj
 EXPERIENCE Apiture, Wilmington NC | Remote Platform Engineer III
 July 2019 - November 2024
 Creating automation workflows to streamline processes and infrastructure as code with Terraform, CloudFormation, Jenkins and Bitbucket.</description>
+      <content>&lt;h1 id=&#34;joshua-bergman&#34;&gt;Joshua Bergman&lt;/h1&gt;
+&lt;p&gt;Highly motivated professional with over 20 years experience in  diverse and dynamic environments. Proven ability to deliver high-quality results, meet deadlines and exceed expectations. Skilled in advanced technology and application development. Strong team player and communicator, with a demonstrated ability to collaborate effectively with colleagues.&lt;/p&gt;
+&lt;h1 id=&#34;experience&#34;&gt;EXPERIENCE&lt;/h1&gt;
+&lt;h2 id=&#34;apiture-wilmington-nc--remote&#34;&gt;&lt;strong&gt;Apiture, Wilmington NC | Remote&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Platform Engineer III&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;July  2019 - November 2024&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating automation workflows to streamline processes and infrastructure as code with Terraform, CloudFormation, Jenkins and Bitbucket.&lt;/li&gt;
+&lt;li&gt;Proficient  in multiple AWS technologies including:
+EC2 | Lambda | S3 | Route53 | CloudFormation| ECS |  EKS | Secrets Manager | Parameter Store | Backup Service |RDS | Security Hub&lt;/li&gt;
+&lt;li&gt;Managed and maintained EC2 fleet which consisted of Windows, Linux and MacOS instances.&lt;/li&gt;
+&lt;li&gt;Managed Security vulnerabilities on instances and mitigated threats as necessary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;schneider-electric-middletown-pa--remote&#34;&gt;&lt;strong&gt;Schneider Electric, Middletown PA | Remote&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Enterprise Devops Engineer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;March  2017 - July 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Automating EC2 creation and working on CI/CD pipelines.&lt;/li&gt;
+&lt;li&gt;Automation of end to end application setups.&lt;/li&gt;
+&lt;li&gt;Managing and pushing code for automation to GitHub.&lt;/li&gt;
+&lt;li&gt;Created Jenkins pipelines to trigger builds on code commits.&lt;/li&gt;
+&lt;li&gt;Documentation in confluence.&lt;/li&gt;
+&lt;li&gt;SCRUM boards and Sprints in GitHub.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Enterprise Cloud Engineer&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;March 2014 - March 2017&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Setup Cloud Offer in AWS and provisioned infrastructure.&lt;/li&gt;
+&lt;li&gt;Was one of four that created the cloud provisioning setup for the Cloud Operations team.&lt;/li&gt;
+&lt;li&gt;Provisioned EC2 servers, classic load balancers.&lt;/li&gt;
+&lt;li&gt;Created and modified security groups.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Global Systems Administrator&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;September 2008 - March 2014&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In charge of technical support for the distribution centers servicing the RF units, printers,
+mobile carts, computers.&lt;/li&gt;
+&lt;li&gt;Traveled to all new distribution center locations, setup the equipment, trained local users.&lt;/li&gt;
+&lt;li&gt;Standardized all warehouse equipment globally for the Oracle distribution center offering.&lt;/li&gt;
+&lt;li&gt;Supported Oracle servers and shipping application.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;education&#34;&gt;EDUCATION&lt;/h1&gt;
+&lt;h2 id=&#34;college&#34;&gt;College&lt;/h2&gt;
+&lt;h3 id=&#34;central-penn-college&#34;&gt;Central Penn college&lt;/h3&gt;
+&lt;p&gt;2010‐2012&lt;/p&gt;
+&lt;p&gt;Network Management and Ethical Hacking&lt;/p&gt;
+&lt;h2 id=&#34;high-school&#34;&gt;High School&lt;/h2&gt;
+&lt;h3 id=&#34;bolingbrook-high-school&#34;&gt;Bolingbrook High School&lt;/h3&gt;
+&lt;p&gt;1995‐1999&lt;/p&gt;
+</content>
     </item>
     
     <item>
@@ -47,6 +118,73 @@ Creating automation workflows to streamline processes and infrastructure as code
       
       <guid>/skills/</guid>
       <description>Languages YAML ✅ ✅ ✅ ✅ ✅ HCL ✅ ✅ ✅ ✅ ✅ Bash ✅ ✅ ✅ ✅ ✅ CloudFormation ✅ ✅ ✅ ✅ Python ✅ ✅ ✅ ✅ Javascript ✅ ✅ Golang ✅ Typescript ✅ Automation Ansible ✅ ✅ ✅ ✅ ✅ Terraform ✅ ✅ ✅ ✅ ✅ StackStorm ✅ ✅ ✅ ✅ ✅ Jenkins ✅ ✅ ✅ ✅ Salt ✅ ✅ ✅ Operating Systems MacOS ✅ ✅ ✅ ✅ ✅ Linux ✅ ✅ ✅ ✅ ✅ Windows ✅ ✅ ✅ ✅ ✅ AWS Cloud EC2 ✅ ✅ ✅ ✅ ✅ EC2 Security Groups Load Balancers Target Groups S3 ✅ ✅ ✅ ✅ ✅ Lambda ✅ ✅ ✅ ✅ Secrets Manager ✅ ✅ ✅ ✅ ✅ Secrets Replicas SSM ✅ ✅ ✅ ✅ ✅ Parameter Store Run command Documents ECS ✅ ✅ ✅ ✅ Clusters Services Tasks Backup Service ✅ ✅ ✅ ✅ ✅ Vaults Jobs Cross Region VPC ✅ ✅ ✅ ✅ ✅ </description>
+      <content>&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;YAML ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;HCL ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Bash ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;CloudFormation ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Python ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Javascript ✅ ✅&lt;/li&gt;
+&lt;li&gt;Golang ✅&lt;/li&gt;
+&lt;li&gt;Typescript ✅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;automation&#34;&gt;Automation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ansible ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Terraform ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;StackStorm ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Jenkins ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Salt ✅ ✅ ✅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;operating-systems&#34;&gt;Operating Systems&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MacOS ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Linux ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Windows ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;aws-cloud&#34;&gt;AWS Cloud&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EC2 ✅ ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;EC2&lt;/li&gt;
+&lt;li&gt;Security Groups&lt;/li&gt;
+&lt;li&gt;Load Balancers&lt;/li&gt;
+&lt;li&gt;Target Groups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;S3 ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Lambda ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Secrets Manager ✅ ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;Secrets&lt;/li&gt;
+&lt;li&gt;Replicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SSM ✅ ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;Parameter Store&lt;/li&gt;
+&lt;li&gt;Run command&lt;/li&gt;
+&lt;li&gt;Documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ECS ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;Clusters&lt;/li&gt;
+&lt;li&gt;Services&lt;/li&gt;
+&lt;li&gt;Tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Backup Service ✅ ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;Vaults&lt;/li&gt;
+&lt;li&gt;Jobs&lt;/li&gt;
+&lt;li&gt;Cross Region&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;VPC ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;/ul&gt;
+</content>
     </item>
     
     <item>
@@ -56,6 +194,7 @@ Creating automation workflows to streamline processes and infrastructure as code
       
       <guid>/robotics/</guid>
       <description></description>
+      <content></content>
     </item>
     
   </channel>
