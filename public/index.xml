@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>joshbergman.io</title>
+    <link>https://joshbergman.io/</link>
+    <description>Recent content on joshbergman.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© [Josh Bergman](https://joshbergman.io)</copyright><atom:link href="https://joshbergman.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://joshbergman.io/about/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshbergman.io/about/</guid>
+      <description>Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://joshbergman.io/projects/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshbergman.io/projects/</guid>
+      <description>Here are some of the projects I have worked on.
+Predator Detection System This was created as a scienxce project to deter predators from attacking animals or pets.
+Predator Detection
+Digital trading card system (In Progress) This was created as an Innovation Project for FIRST Lego League Rototics. The objective was to create a 3D immersive digital trading card system. We used design boards, javascript, CSS and html to create the basis of the app.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://joshbergman.io/resume/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshbergman.io/resume/</guid>
+      <description>Joshua Bergman Highly motivated professional with over 20 years experience in diverse and dynamic environments. Proven ability to deliver high-quality results, meet deadlines and exceed expectations. Skilled in advanced technology and application development. Strong team player and communicator, with a demonstrated ability to collaborate effectively with colleagues.
+EXPERIENCE Apiture, Wilmington NC | Remote Platform Engineer III
+July 2019 - November 2024
+Creating automation workflows to streamline processes and infrastructure as code with Terraform, CloudFormation, Jenkins and Bitbucket.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://joshbergman.io/skills/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshbergman.io/skills/</guid>
+      <description>Languages YAML ✅ ✅ ✅ ✅ ✅ HCL ✅ ✅ ✅ ✅ ✅ Bash ✅ ✅ ✅ ✅ ✅ CloudFormation ✅ ✅ ✅ ✅ Python ✅ ✅ ✅ ✅ Javascript ✅ ✅ Golang ✅ Typescript ✅ Automation Ansible ✅ ✅ ✅ ✅ ✅ Terraform ✅ ✅ ✅ ✅ ✅ StackStorm ✅ ✅ ✅ ✅ ✅ Jenkins ✅ ✅ ✅ ✅ Salt ✅ ✅ ✅ Operating Systems MacOS ✅ ✅ ✅ ✅ ✅ Linux ✅ ✅ ✅ ✅ ✅ Windows ✅ ✅ ✅ ✅ ✅ AWS Cloud EC2 ✅ ✅ ✅ ✅ ✅ EC2 Security Groups Load Balancers Target Groups S3 ✅ ✅ ✅ ✅ ✅ Lambda ✅ ✅ ✅ ✅ Secrets Manager ✅ ✅ ✅ ✅ ✅ Secrets Replicas SSM ✅ ✅ ✅ ✅ ✅ Parameter Store Run command Documents ECS ✅ ✅ ✅ ✅ Clusters Services Tasks Backup Service ✅ ✅ ✅ ✅ ✅ Vaults Jobs Cross Region VPC ✅ ✅ ✅ ✅ ✅ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://joshbergman.io/robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshbergman.io/robotics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
