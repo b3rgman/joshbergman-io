@@ -1,4 +1,4 @@
-baseURL = "https://joshbergman.io/"
+baseURL = "https://joshbergman.io"
 theme = "risotto"
 title = "joshbergman.io"
 author = "Josh Bergman"
@@ -95,29 +95,29 @@ unsafe = true
     endLevel   = 3
     ordered    = true
 
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
-
-[services]
-
-  [services.instagram]
-    disableInlineCSS = true
-
-  [services.twitter]
-    disableInlineCSS = true
+# [privacy]
+#
+#   [privacy.vimeo]
+#     disabled = false
+#     simple = true
+#
+#   [privacy.twitter]
+#     disabled = false
+#     enableDNT = true
+#     simple = true
+#
+#   [privacy.instagram]
+#     disabled = false
+#     simple = true
+#
+#   [privacy.youtube]
+#     disabled = false
+#     privacyEnhanced = true
+#
+# [services]
+#
+#   [services.instagram]
+#     disableInlineCSS = true
+#
+#   [services.twitter]
+#     disableInlineCSS = true
