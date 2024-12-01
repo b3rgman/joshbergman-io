@@ -5,7 +5,6 @@
     <link>/categories/</link>
     <description>Recent content in Categories on joshbergman.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© [Josh Bergman](https://joshbergman.io)</copyright><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
