@@ -1,6 +1,5 @@
 baseURL = "/"
-theme = "terminal"
-# theme = "risotto"
+theme = "risotto"
 title = "joshbergman.io"
 author = "Josh Bergman"
 # copyright = "© [Josh Bergman](https://joshbergman.io)"
