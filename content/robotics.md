@@ -10,3 +10,5 @@ Through the program, the robotics team gains priceless opportunities to engage i
 Out of 275 teams, we made it to the Championship round.  We placed 7th.  the top 6 teams moved on to State Championship round
 
 Our Innovation project from this season was to find a way to work with the arts.  We designed a 3D immersive trading card system with design boards made in penpot. We started working on a mobile application with react. You can see more fo this project on my Projects page.
+
+You can find out more about FIRST [here](https://www.firstinspires.org).

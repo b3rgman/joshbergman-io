@@ -98,6 +98,11 @@ paginate = 5
           name = "Projects"
           url = "/projects"
           weight = 40
+        [[languages.en.menu.main]]
+          identifier = "robotics"
+          name = "Robotics"
+          url = "/robotics"
+          weight = 50
 
 # [module]
 #   # In case you would like to make changes to the theme and keep it locally in you repository,
