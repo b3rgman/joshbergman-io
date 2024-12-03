@@ -20,6 +20,9 @@ Highly motivated professional with over 20 years experience in  diverse and dyna
   EC2 | Lambda | S3 | Route53 | CloudFormation| ECS |  EKS | Secrets Manager | Parameter Store | Backup Service |RDS | Security Hub
 - Managed and maintained EC2 fleet which consisted of Windows, Linux and MacOS instances.
 - Managed Security vulnerabilities on instances and mitigated threats as necessary.
+- Engaged in the procurement, demonstration, and proof-of-concept processes for multiple Identity Provider (IDP) solutions, including JumpCloud, Fusion Auth, Ping, and Okta.
+- Managed the deployment of an Okta tenant to enable Enterprise SSO for applications and LDAP queries.
+
 
 
 ## **Schneider Electric, Middletown PA | Remote**
