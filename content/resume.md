@@ -59,6 +59,15 @@ Highly motivated professional with over 20 years experience in  diverse and dyna
 - Supported Oracle servers and shipping application.
 
 
+# Accomplishments
+- Created and maintained release process for product offering adding automation and documentation around the process. 
+- Collaborated on a team project during a company hackathon, achieving second place.
+- Provisioned event-driven platform for runbook automation to manage ec2 fleet in IaC.
+- Migrated entire Amazon Linux 2 instance fleet to Amazon Linux 2023 Operating System in IaC.
+- Migrated Windows Server 2012 Domain controllers to Windows Server 2022 in IaC.
+- Rebuilt entire Kerberos database and instances (4) from scratch and enabled synching in IaC.
+
+
 # EDUCATION
 ## College
 ### Central Penn college
