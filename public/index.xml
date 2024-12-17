@@ -143,7 +143,7 @@ mobile carts, computers.&lt;/li&gt;
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/skills/</guid>
-      <description>Languages YAML ✅ ✅ ✅ ✅ ✅ HCL ✅ ✅ ✅ ✅ ✅ Bash ✅ ✅ ✅ ✅ ✅ CloudFormation ✅ ✅ ✅ ✅ Python ✅ ✅ ✅ ✅ Javascript ✅ ✅ Golang ✅ Typescript ✅ Automation Ansible ✅ ✅ ✅ ✅ ✅ Terraform ✅ ✅ ✅ ✅ ✅ StackStorm ✅ ✅ ✅ ✅ ✅ Jenkins ✅ ✅ ✅ ✅ Salt ✅ ✅ ✅ Operating Systems MacOS ✅ ✅ ✅ ✅ ✅ Linux ✅ ✅ ✅ ✅ ✅ Windows ✅ ✅ ✅ ✅ ✅ AWS Cloud EC2 ✅ ✅ ✅ ✅ ✅ EC2 Security Groups Load Balancers Target Groups S3 ✅ ✅ ✅ ✅ ✅ Lambda ✅ ✅ ✅ ✅ Secrets Manager ✅ ✅ ✅ ✅ ✅ Secrets Replicas SSM ✅ ✅ ✅ ✅ ✅ Parameter Store Run command Documents ECS ✅ ✅ ✅ ✅ Clusters Services Tasks Backup Service ✅ ✅ ✅ ✅ ✅ Vaults Jobs Cross Region VPC ✅ ✅ ✅ ✅ ✅ </description>
+      <description>Languages YAML ✅ ✅ ✅ ✅ ✅ HCL ✅ ✅ ✅ ✅ ✅ Bash ✅ ✅ ✅ ✅ ✅ CloudFormation ✅ ✅ ✅ ✅ Python ✅ ✅ ✅ ✅ Javascript ✅ ✅ Golang ✅ Typescript ✅ Security Qualys ✅ ✅ ✅ ✅ Vulnerability Remediation ✅ ✅ ✅ ✅ CIS ✅ ✅ ✅ Kali Linux ✅ ✅ Automation Ansible ✅ ✅ ✅ ✅ ✅ Terraform ✅ ✅ ✅ ✅ ✅ StackStorm ✅ ✅ ✅ ✅ ✅ Jenkins ✅ ✅ ✅ ✅ Salt ✅ ✅ ✅ Operating Systems MacOS ✅ ✅ ✅ ✅ ✅ Linux ✅ ✅ ✅ ✅ ✅ Windows ✅ ✅ ✅ ✅ ✅ AWS Cloud EC2 ✅ ✅ ✅ ✅ ✅ EC2 Security Groups Load Balancers Target Groups S3 ✅ ✅ ✅ ✅ ✅ Lambda ✅ ✅ ✅ ✅ Secrets Manager ✅ ✅ ✅ ✅ ✅ Secrets Replicas SSM ✅ ✅ ✅ ✅ ✅ Parameter Store Run command Documents ECS ✅ ✅ ✅ ✅ Clusters Services Tasks Backup Service ✅ ✅ ✅ ✅ ✅ Vaults Jobs Cross Region VPC ✅ ✅ ✅ ✅ ✅ </description>
       <content>&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;YAML ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
@@ -154,6 +154,13 @@ mobile carts, computers.&lt;/li&gt;
 &lt;li&gt;Javascript ✅ ✅&lt;/li&gt;
 &lt;li&gt;Golang ✅&lt;/li&gt;
 &lt;li&gt;Typescript ✅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;security&#34;&gt;Security&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Qualys ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Vulnerability Remediation ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;CIS ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Kali Linux ✅ ✅&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;automation&#34;&gt;Automation&lt;/h2&gt;
 &lt;ul&gt;

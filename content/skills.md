@@ -14,6 +14,11 @@ date = 2024-11-30
 - Golang ✅ 
 - Typescript ✅
 
+## Security
+- Qualys ✅ ✅ ✅ ✅  
+- Vulnerability Remediation ✅ ✅ ✅ ✅ 
+- CIS ✅ ✅ ✅  
+- Kali Linux ✅ ✅   
 
 ## Automation
 - Ansible ✅ ✅ ✅ ✅ ✅ 
