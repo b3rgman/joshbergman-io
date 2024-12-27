@@ -27,6 +27,9 @@ date = 2024-11-30
 - Jenkins ✅ ✅ ✅ ✅ 
 - Salt ✅ ✅ ✅ 
 
+## Monitoring
+- Grafana ✅ ✅ ✅ 
+- New Relic ✅ ✅ ✅ 
 
 ## Operating Systems
 - MacOS ✅ ✅ ✅ ✅ ✅ 

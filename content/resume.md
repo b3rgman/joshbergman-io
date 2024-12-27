@@ -22,6 +22,7 @@ Highly motivated professional with over 20 years experience in  diverse and dyna
 - Managed Security vulnerabilities on instances and mitigated threats as necessary.
 - Engaged in the procurement, demonstration, and proof-of-concept processes for multiple Identity Provider (IDP) solutions, including JumpCloud, Fusion Auth, Ping, and Okta.
 - Managed the deployment of an Okta tenant to enable Enterprise SSO for applications and LDAP queries.
+- Designed and implemented a New Relic Framework using Infrastructure as Code (IaC) and automated deployments through pipeline webhooks.
 
 
 
