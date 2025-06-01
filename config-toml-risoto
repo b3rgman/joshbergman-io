@@ -38,8 +38,13 @@ palette = "tokyo-night-dark"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-github"
-title = "GitHub"
+title = "GitHub - Personal"
 url = "https://github.com/b3rgman"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub - Profesional"
+url = "https://github.com/jbergman-oddball"
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"

@@ -9,6 +9,17 @@ Highly motivated professional with over 20 years experience in  diverse and dyna
 
 
 # EXPERIENCE
+## Oddball, Remote
+
+DevOps Engineer II
+
+February 2025 - Present
+
+- Maintaining and creating Automation for VA Flagship Mobile Application
+- Maintaining iOS and Android builds for Mobile Application
+- Tracking and nitoring alerts using DataDog
+- Building AWS infrastructure in GovCloud
+
 ## **Apiture, Wilmington NC | Remote**
 
 **Platform Engineer III**

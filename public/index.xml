@@ -28,8 +28,8 @@ Through the program, the robotics team gains priceless opportunities to engage i
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.</description>
-      <content>&lt;p&gt;Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.&lt;/p&gt;
+      <description>Hello, My name is Josh Bergman. I am a DevOps Engineer with 10+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.</description>
+      <content>&lt;p&gt;Hello, My name is Josh Bergman. I am a DevOps Engineer with 10+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.&lt;/p&gt;
 </content>
     </item>
     
@@ -39,8 +39,8 @@ Through the program, the robotics team gains priceless opportunities to engage i
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/posts/about/</guid>
-      <description>Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.</description>
-      <content>&lt;p&gt;Hello, My name is Josh Bergman. I am a Platform Engineer with 7+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.&lt;/p&gt;
+      <description>Hello, My name is Josh Bergman. I am a DevOps Engineer with 10+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.</description>
+      <content>&lt;p&gt;Hello, My name is Josh Bergman. I am a DevOps Engineer with 10+ years of experience in AWS and Automation. I have worked in AWS cloud for more than 10 years using Ansible, StackStorm, Terraform, Salt, CloudFormation and Jenkins to create Infrastructure as code in bitbucket. For a list of my full skillset, please visit my skills page.&lt;/p&gt;
 </content>
     </item>
     
@@ -71,12 +71,21 @@ Digital trading card system (In Progress) This was created as an Innovation Proj
       
       <guid>/resume/</guid>
       <description>Joshua Bergman Highly motivated professional with over 20 years experience in diverse and dynamic environments. Proven ability to deliver high-quality results, meet deadlines and exceed expectations. Skilled in advanced technology and application development. Strong team player and communicator, with a demonstrated ability to collaborate effectively with colleagues.
-EXPERIENCE Apiture, Wilmington NC | Remote Platform Engineer III
-July 2019 - November 2024
-Creating automation workflows to streamline processes and infrastructure as code with Terraform, CloudFormation, Jenkins and Bitbucket.</description>
+EXPERIENCE Oddball, Remote DevOps Engineer II
+February 2025 - Present
+Maintaining and creating Automation for VA Flagship Mobile Application Maintaining iOS and Android builds for Mobile Application Tracking and nitoring alerts using DataDog Building AWS infrastructure in GovCloud Apiture, Wilmington NC | Remote Platform Engineer III</description>
       <content>&lt;h1 id=&#34;joshua-bergman&#34;&gt;Joshua Bergman&lt;/h1&gt;
 &lt;p&gt;Highly motivated professional with over 20 years experience in  diverse and dynamic environments. Proven ability to deliver high-quality results, meet deadlines and exceed expectations. Skilled in advanced technology and application development. Strong team player and communicator, with a demonstrated ability to collaborate effectively with colleagues.&lt;/p&gt;
 &lt;h1 id=&#34;experience&#34;&gt;EXPERIENCE&lt;/h1&gt;
+&lt;h2 id=&#34;oddball-remote&#34;&gt;Oddball, Remote&lt;/h2&gt;
+&lt;p&gt;DevOps Engineer II&lt;/p&gt;
+&lt;p&gt;February 2025 - Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maintaining and creating Automation for VA Flagship Mobile Application&lt;/li&gt;
+&lt;li&gt;Maintaining iOS and Android builds for Mobile Application&lt;/li&gt;
+&lt;li&gt;Tracking and nitoring alerts using DataDog&lt;/li&gt;
+&lt;li&gt;Building AWS infrastructure in GovCloud&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;apiture-wilmington-nc--remote&#34;&gt;&lt;strong&gt;Apiture, Wilmington NC | Remote&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Platform Engineer III&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;July  2019 - November 2024&lt;/strong&gt;&lt;/p&gt;
@@ -144,8 +153,13 @@ mobile carts, computers.&lt;/li&gt;
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>/skills/</guid>
-      <description>Languages YAML ✅ ✅ ✅ ✅ ✅ HCL ✅ ✅ ✅ ✅ ✅ Bash ✅ ✅ ✅ ✅ ✅ CloudFormation ✅ ✅ ✅ ✅ Python ✅ ✅ ✅ ✅ Javascript ✅ ✅ Golang ✅ Typescript ✅ Security Qualys ✅ ✅ ✅ ✅ Vulnerability Remediation ✅ ✅ ✅ ✅ CIS ✅ ✅ ✅ Kali Linux ✅ ✅ Automation Ansible ✅ ✅ ✅ ✅ ✅ Terraform ✅ ✅ ✅ ✅ ✅ StackStorm ✅ ✅ ✅ ✅ ✅ Jenkins ✅ ✅ ✅ ✅ Salt ✅ ✅ ✅ Monitoring Grafana ✅ ✅ ✅ New Relic ✅ ✅ ✅ Operating Systems MacOS ✅ ✅ ✅ ✅ ✅ Linux ✅ ✅ ✅ ✅ ✅ Windows ✅ ✅ ✅ ✅ ✅ AWS Cloud EC2 ✅ ✅ ✅ ✅ ✅ EC2 Security Groups Load Balancers Target Groups S3 ✅ ✅ ✅ ✅ ✅ Lambda ✅ ✅ ✅ ✅ Secrets Manager ✅ ✅ ✅ ✅ ✅ Secrets Replicas SSM ✅ ✅ ✅ ✅ ✅ Parameter Store Run command Documents ECS ✅ ✅ ✅ ✅ Clusters Services Tasks Backup Service ✅ ✅ ✅ ✅ ✅ Vaults Jobs Cross Region VPC ✅ ✅ ✅ ✅ ✅ </description>
-      <content>&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+      <description>Source Control GitHub ✅ ✅ ✅ ✅ ✅ BitBucket ✅ ✅ ✅ ✅ ✅ Languages YAML ✅ ✅ ✅ ✅ ✅ HCL ✅ ✅ ✅ ✅ ✅ Bash ✅ ✅ ✅ ✅ ✅ CloudFormation ✅ ✅ ✅ ✅ Python ✅ ✅ ✅ ✅ Javascript ✅ ✅ Golang ✅ Typescript ✅ Security Qualys ✅ ✅ ✅ ✅ Vulnerability Remediation ✅ ✅ ✅ ✅ CIS ✅ ✅ ✅ Kali Linux ✅ ✅ Automation Ansible ✅ ✅ ✅ ✅ ✅ GitHub Actions ✅ ✅ Terraform ✅ ✅ ✅ ✅ ✅ StackStorm ✅ ✅ ✅ ✅ ✅ Jenkins ✅ ✅ ✅ ✅ Salt ✅ ✅ ✅ Monitoring Grafana ✅ ✅ ✅ New Relic ✅ ✅ ✅ Data Dog ✅ ✅ Operating Systems MacOS ✅ ✅ ✅ ✅ ✅ Linux ✅ ✅ ✅ ✅ ✅ Windows ✅ ✅ ✅ ✅ ✅ AWS Cloud EC2 ✅ ✅ ✅ ✅ ✅ EC2 Security Groups Load Balancers Target Groups S3 ✅ ✅ ✅ ✅ ✅ Lambda ✅ ✅ ✅ ✅ Secrets Manager ✅ ✅ ✅ ✅ ✅ Secrets Replicas SSM ✅ ✅ ✅ ✅ ✅ Parameter Store Run command Documents ECS ✅ ✅ ✅ ✅ Clusters Services Tasks Backup Service ✅ ✅ ✅ ✅ ✅ Vaults Jobs Cross Region VPC ✅ ✅ ✅ ✅ ✅ AWS Gov Cloud EC2 ✅ ✅ ✅ ✅ ✅ EC2 Security Groups Load Balancers Target Groups S3 ✅ ✅ ✅ ✅ ✅ Lambda ✅ ✅ ✅ ✅ Secrets Manager ✅ ✅ ✅ ✅ ✅ Secrets Replicas SSM ✅ ✅ ✅ ✅ ✅ Parameter Store Run command Documents ECS ✅ ✅ ✅ ✅ Clusters Services Tasks Backup Service ✅ ✅ ✅ ✅ ✅ Vaults Jobs Cross Region VPC ✅ ✅ ✅ ✅ ✅ </description>
+      <content>&lt;h2 id=&#34;source-control&#34;&gt;Source Control&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;BitBucket ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;YAML ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
 &lt;li&gt;HCL ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
@@ -166,6 +180,7 @@ mobile carts, computers.&lt;/li&gt;
 &lt;h2 id=&#34;automation&#34;&gt;Automation&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Ansible ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;GitHub Actions ✅ ✅&lt;/li&gt;
 &lt;li&gt;Terraform ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
 &lt;li&gt;StackStorm ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
 &lt;li&gt;Jenkins ✅ ✅ ✅ ✅&lt;/li&gt;
@@ -175,6 +190,7 @@ mobile carts, computers.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Grafana ✅ ✅ ✅&lt;/li&gt;
 &lt;li&gt;New Relic ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Data Dog ✅ ✅&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;operating-systems&#34;&gt;Operating Systems&lt;/h2&gt;
 &lt;ul&gt;
@@ -183,6 +199,47 @@ mobile carts, computers.&lt;/li&gt;
 &lt;li&gt;Windows ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;aws-cloud&#34;&gt;AWS Cloud&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;EC2 ✅ ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;EC2&lt;/li&gt;
+&lt;li&gt;Security Groups&lt;/li&gt;
+&lt;li&gt;Load Balancers&lt;/li&gt;
+&lt;li&gt;Target Groups&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;S3 ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Lambda ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;li&gt;Secrets Manager ✅ ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;Secrets&lt;/li&gt;
+&lt;li&gt;Replicas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;SSM ✅ ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;Parameter Store&lt;/li&gt;
+&lt;li&gt;Run command&lt;/li&gt;
+&lt;li&gt;Documents&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;ECS ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;Clusters&lt;/li&gt;
+&lt;li&gt;Services&lt;/li&gt;
+&lt;li&gt;Tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Backup Service ✅ ✅ ✅ ✅ ✅
+&lt;ul&gt;
+&lt;li&gt;Vaults&lt;/li&gt;
+&lt;li&gt;Jobs&lt;/li&gt;
+&lt;li&gt;Cross Region&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;VPC ✅ ✅ ✅ ✅ ✅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;aws-gov-cloud&#34;&gt;AWS Gov Cloud&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;EC2 ✅ ✅ ✅ ✅ ✅
 &lt;ul&gt;

@@ -3,6 +3,9 @@ title = 'Skills'
 date = 2024-11-30
 +++
 
+## Source Control
+- GitHub ✅ ✅ ✅ ✅ ✅
+- BitBucket ✅ ✅ ✅ ✅ ✅
 
 ## Languages
 - YAML ✅ ✅ ✅ ✅ ✅  
@@ -22,6 +25,7 @@ date = 2024-11-30
 
 ## Automation
 - Ansible ✅ ✅ ✅ ✅ ✅ 
+- GitHub Actions ✅ ✅ 
 - Terraform ✅ ✅ ✅ ✅ ✅ 
 - StackStorm ✅ ✅ ✅ ✅ ✅ 
 - Jenkins ✅ ✅ ✅ ✅ 
@@ -30,6 +34,7 @@ date = 2024-11-30
 ## Monitoring
 - Grafana ✅ ✅ ✅ 
 - New Relic ✅ ✅ ✅ 
+- Data Dog ✅ ✅
 
 ## Operating Systems
 - MacOS ✅ ✅ ✅ ✅ ✅ 
@@ -37,6 +42,31 @@ date = 2024-11-30
 - Windows ✅ ✅ ✅ ✅ ✅ 
 
 ## AWS Cloud
+- EC2 ✅ ✅ ✅ ✅ ✅ 
+    - EC2
+    - Security Groups
+    - Load Balancers
+    - Target Groups
+- S3 ✅ ✅ ✅ ✅ ✅ 
+- Lambda ✅ ✅ ✅ ✅
+- Secrets Manager ✅ ✅ ✅ ✅ ✅ 
+    - Secrets
+    - Replicas
+- SSM ✅ ✅ ✅ ✅ ✅ 
+    - Parameter Store
+    - Run command
+    - Documents
+- ECS ✅ ✅ ✅ ✅ 
+    - Clusters
+    - Services
+    - Tasks
+- Backup Service ✅ ✅ ✅ ✅ ✅ 
+    - Vaults
+    - Jobs
+    - Cross Region
+- VPC ✅ ✅ ✅ ✅ ✅ 
+
+## AWS Gov Cloud
 - EC2 ✅ ✅ ✅ ✅ ✅ 
     - EC2
     - Security Groups
